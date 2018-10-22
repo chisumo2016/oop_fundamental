@@ -1,0 +1,4 @@
+<?php
+/**
+ * Same Name  method
+ */

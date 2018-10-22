@@ -1,0 +1,6 @@
+<?php
+/**
+ * Grantee
+ *
+ * Cannot Instantiead
+ */
